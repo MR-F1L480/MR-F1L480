@@ -2,5 +2,5 @@
 # MR.VILOID
 
 
-$no system is perfect
+NO SYSTEM IS PERFECT
 
